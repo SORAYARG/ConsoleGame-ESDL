@@ -1,0 +1,11 @@
+Main.class
+character\beasts\Goblins.class
+character\heroes\Hobbit.class
+character\beasts\Orcs.class
+character\heroes\Heroes.class
+character\beasts\Beasts.class
+Game.class
+util\Util.class
+character\Characters.class
+character\heroes\Elves.class
+character\heroes\Humans.class
